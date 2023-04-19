@@ -21,7 +21,7 @@ Engineer to write a script that will:
 2. Merge Vendor Y's data with Vendor X's data
    1. Vendor X's data: `data/vendor_x_data.csv`
 3. Standardize the column names and the data
-   1. See [Data](#data) section below for more info
+   1. See [Data](#data) section below for morecons_email = pd.read_csv('cons_email.csv') info
 4. Save data to a file
    1. `all_vendors.csv`
 5. Import data in to the database
