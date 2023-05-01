@@ -14,6 +14,4 @@ _**Unfortunately, time is a bit short and I had some connection issues using SQL
 I would have liked to structure with classes, functions and tests to take better 
 advantage of the code for future needs.**_ 
 
-### For now I hope to meet your expectations and say goodbye for now not before giving thanks again for this opportunity.
-
 ## Alex Torres
